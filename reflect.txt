@@ -1,0 +1,26 @@
+// Name: Rad Eshghi
+// Seneca Student ID: 123348195
+// Seneca email: Reshghi@myseneca.ca
+// Date of completion: 11/28/2020
+// I confirm that I am the only author of this file
+//   and the content was created entirely by me.
+
+	In general, this project was covering almost everything that we have 
+learned through the semester there were some concepts that I have chosen not 
+to use such as algorithm because of code performance and efficiency of the 
+code and for debugging purposes. Iterators were mainly used in the last 
+milestone such as <deque> for back and front access and <vectors> only for 
+front access. 
+
+	Combining and accessing other modules was the main idea to choose 
+the right member function to use throughout the code to avoid duplication 
+of the code. 
+
+	I have had some issues through my coding but with help of the debugging 
+tools that VS provides, I was able to track and review each step more focused 
+and more sure to fix my issues. To improve this project I would put all the 
+modules into a unique namespace so that when looking at modules it is easier 
+to read and connect between them. Maybe I would use more lambda expressions 
+for syntax and iterator handling. This was a very good practice and was very 
+help full to clear some of the concepts that was unclear throughout the semester 
+for me. 
